@@ -35,18 +35,5 @@ HTML
 </script>
 ```
 
-This code sends a custom event named "download_button_click" to Google Analytics whenever the button is clicked, and it even captures the button's label for further analysis.
-
-**4. Remember:**
-
-  - Keep event names descriptive and consistent for easy analysis.
-  - Track only relevant and insightful events to avoid data overload.
-  - Test your implementation thoroughly to ensure accurate event tracking.
-
-**Bonus Tip:** Explore GTM's advanced features like custom dimensions and metrics to unlock even deeper insights from your custom events.
-
-Go forth, track, and analyze! By implementing custom event tracking in your Webflow site, you can gain a deeper understanding of your users, their actions, and their journey through your content. This knowledge is your golden key to optimizing your website for engagement, conversions, and ultimately, success!
-
-
 # Need Help?
 Want to build a [custom webflow page](https://epyc.in/)?
